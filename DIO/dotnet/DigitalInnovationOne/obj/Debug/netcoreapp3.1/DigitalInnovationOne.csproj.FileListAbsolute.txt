@@ -1,0 +1,12 @@
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.deps.json
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.json
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.dev.json
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csprojAssemblyReference.cache
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfoInputs.cache
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfo.cs
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csproj.CoreCompileInputs.cache
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/Users/yellow/Documents/GitHub/estudo/DIO/dotnet/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.genruntimeconfig.cache

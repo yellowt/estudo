@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51743ad3-868f-427e-af9f-e7f36ab67570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/modules/Gradle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/in.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/maven/maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/maven/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1efxcja4B70sZwABjP32YRTSEEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51743ad3-868f-427e-af9f-e7f36ab67570" name="Default Changelist" comment="" />
+      <created>1594726529858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594726529858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="879" y="115" key="#Project_Structure" timestamp="1594726671207">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="879" y="115" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1594726671207" />
+  </component>
+</project>
